@@ -13,6 +13,13 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+
+
+/* Hello Professor, it's Joshua
+ * This is my Question 5 comment
+ * Enjoy!!
+ */
+
 public class UserProfile 
 {
     
